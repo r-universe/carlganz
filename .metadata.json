@@ -1,5 +1,9 @@
 [
   {
+    "package": "docuSignr",
+    "oncran": true
+  },
+  {
     "package": "rintrojs",
     "oncran": true
   }
