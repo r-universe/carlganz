@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "docuSignr"]
 	path = docuSignr
 	url = https://github.com/carlganz/docusignr
-	shallow = true
-	registered = true
 [submodule "rintrojs"]
 	path = rintrojs
 	url = https://github.com/carlganz/rintrojs
-	shallow = true
-	registered = true
